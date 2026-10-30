@@ -379,8 +379,8 @@ footer{
 
 
 ## OUTPUT
+<img width="1300" height="625" alt="Screenshot 2026-10-30 102946" src="https://github.com/user-attachments/assets/8990c724-12b0-4f48-86b5-a9ec7284f5e9" />
 
-<img width="1334" height="627" alt="Screenshot 2026-10-30 102111" src="https://github.com/user-attachments/assets/29e1db3e-2a5b-4ad4-b25d-0c90c281f72c" />
 
 <img width="1306" height="611" alt="Screenshot 2026-10-30 102128" src="https://github.com/user-attachments/assets/ccbbe5bc-4a9f-4103-bae7-a0c0551ead07" />
 
